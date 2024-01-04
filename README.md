@@ -1,29 +1,5 @@
-# web-technologie-lzk-web-app
+# Web Application for a Question-Anwer web Application
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a web application for creating a Question-Anser application in your broswer. 
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Also refered a "LZK" it's commonly used at schools to test a student's perfomance in a certain topic.
